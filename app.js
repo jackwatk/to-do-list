@@ -1,9 +1,8 @@
-'use strict'
 
-console.log("thanks github");
-console.log('is it working?')
-let c = b + a;
+console.log("great work  github");
+console.log('no its not')
+let z = b + a;
 let b = 5;
 
 
-console.log(d);
+console.log(z);
